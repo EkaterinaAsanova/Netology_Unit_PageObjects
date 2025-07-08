@@ -2,9 +2,8 @@ package ru.netology.web.test;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import ru.netology.web.data.DashboardPage;
+import ru.netology.web.page.DashboardPage;
 import ru.netology.web.data.DataHelper;
-import ru.netology.web.data.TransferPage;
 import ru.netology.web.page.LoginPage;
 //import kotlin.collections.*;
 
